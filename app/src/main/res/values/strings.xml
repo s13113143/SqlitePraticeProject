@@ -1,8 +1,9 @@
 <resources>
     <string name="app_name">SqlitePraticeProject</string>
-    <string name="title_login">登入畫面</string>
+    <string name="title_main">登入畫面</string>
     <string name="title_register">註冊畫面</string>
     <string name="title_show">顯示畫面</string>
+    <string name="title_login">使用者畫面</string>
     <string name="txv_account">帳號：</string>
     <string name="txv_password">密碼：</string>
     <string name="txv_check_password"> 確認密碼：</string>
